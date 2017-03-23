@@ -1,0 +1,55 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  flightName: MyString
+  scheduleDate: 2017-03-22
+  flightDirection: MyString
+  flightNumber: 1
+  prefixIATA: MyString
+  prefixICAO: MyString
+  scheduleTime: 2017-03-22
+  serviceType: MyString
+  mainFlight: MyString
+  codeshares: MyString
+  estimatedLandingTime: 2017-03-22
+  actualLandingTime: 2017-03-22
+  publicOffBlockTime: 2017-03-22
+  terminal: 1
+  gate: MyString
+  expectedTimeOnBelt: 2017-03-22
+  transferPositions: MyString
+  aircraftTypemain: MyString
+  aircraftTypesub: MyString
+  aircraftRegistration: MyString
+  airlineCode: MyString
+  expectedTimeGateOpen: 2017-03-22
+  expectedTimeBoarding: 2017-03-22
+  expectedTimeGateClosing: 2017-03-22
+  schemaVersion: MyString
+
+two:
+  flightName: MyString
+  scheduleDate: 2017-03-22
+  flightDirection: MyString
+  flightNumber: 1
+  prefixIATA: MyString
+  prefixICAO: MyString
+  scheduleTime: 2017-03-22
+  serviceType: MyString
+  mainFlight: MyString
+  codeshares: MyString
+  estimatedLandingTime: 2017-03-22
+  actualLandingTime: 2017-03-22
+  publicOffBlockTime: 2017-03-22
+  terminal: 1
+  gate: MyString
+  expectedTimeOnBelt: 2017-03-22
+  transferPositions: MyString
+  aircraftTypemain: MyString
+  aircraftTypesub: MyString
+  aircraftRegistration: MyString
+  airlineCode: MyString
+  expectedTimeGateOpen: 2017-03-22
+  expectedTimeBoarding: 2017-03-22
+  expectedTimeGateClosing: 2017-03-22
+  schemaVersion: MyString
